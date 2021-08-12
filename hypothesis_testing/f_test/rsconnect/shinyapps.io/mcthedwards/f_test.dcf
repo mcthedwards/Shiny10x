@@ -1,0 +1,11 @@
+name: f_test
+title:
+username:
+account: mcthedwards
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4185919
+bundleId: 4639818
+url: https://mcthedwards.shinyapps.io/f_test/
+when: 1621992670.37319
+lastSyncTime: 1621992670.37319

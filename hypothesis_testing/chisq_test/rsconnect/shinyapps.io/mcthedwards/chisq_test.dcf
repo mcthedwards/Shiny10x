@@ -1,0 +1,11 @@
+name: chisq_test
+title:
+username:
+account: mcthedwards
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4185906
+bundleId: 4639806
+url: https://mcthedwards.shinyapps.io/chisq_test/
+when: 1621992544.60111
+lastSyncTime: 1621992544.60111
